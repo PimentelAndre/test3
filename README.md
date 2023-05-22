@@ -52,3 +52,8 @@ git config --list
 Si je fais des modifications, sur mon projet, je dois faire : 'git add .'
 puis : 'git commit -m "MESSAGE"'
 puis : 'git push' pour envoyer les modifications sur Github donc je ne précise plus dans le push l'adresse du repository et la branche car elles ont été enregistrées lors de la création du repository.
+
+### Cloner un projet
+
+Pour cloner un projet, il faut se positionner dans le dossier où l'on veut cloner le projet et faire 'git clone urlDuProjet'.
+exemple : 'git clone https://github.com/PimentelAndre/test3 ce lien https du projet gitHub.
