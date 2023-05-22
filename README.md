@@ -49,3 +49,6 @@ git config --global --unset-all user.email
 
 git config --list
 
+Si je fais des modifications, sur mon projet, je dois faire : 'git add .'
+puis : 'git commit -m "MESSAGE"'
+puis : 'git push' pour envoyer les modifications sur Github donc je ne précise plus dans le push l'adresse du repository et la branche car elles ont été enregistrées lors de la création du repository.
